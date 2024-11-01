@@ -38,10 +38,12 @@ main {
 }
 h1{
     color: #FFFFFF;	
+	text-align: center;
 	
 }
 footer {
-    padding: 10px 20px;
+	//display: inline-block;//
+    padding: 18px;
     color: #FFFFFF;
     background-color: ;
 }
@@ -56,6 +58,19 @@ header {
 .vid {
 	
 }
+
+.buy {
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 33px;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: "Signika Negative", serif;
+}
+
+
+
+
 
 	
 	// Announcement Bar Font //
@@ -143,4 +158,104 @@ header {
                 transform: translateX(-200%);
             }
         }
+
+
+
+
+
+
+.vinyl1{
+    margin-left: 162px;
+    margin-top: 43px;
+	}
+.vinyl2 {
+    margin-left: 192px;
+}
+body wrapper main {
+    height: 913px;
+}
+.cd2 {
+    padding-left: 41px;
+}
+.desc1 {
+    display: inline-block;
+    margin-left: 221px;
+    text-align: center;
+	}
+.desc2 {
+    display: inline-block;
+    margin-left: 173px;
+    text-align: center;
+	}
+.desc4 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+	}
+.desc5 {
+    display: inline-block;
+    margin-left: 239px;
+    text-align: center;
+	}
+.buy {
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 33px;
+    font-weight: bolder;
+    font-size: 30px;
+	font-family: "Signika Negative", serif;
+}
+.buy:hover {
+		color:black;
+	}
+		
+
+
+.vinyl1 {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #322016;
+	padding-left: 100px;
+}
+.vinyl2 {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #322016;
+}
+.vinyl3 {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #322016;
+}
+.vinyl4 {
+    display: inline-block;
+    margin-left: 160px;
+    margin-top: 150px;
+    color: #322016;
+}
+.vinyl5 {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #322016;
+}
+.vinyl6 {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 150px;
+    color: #322016;
+}
+.p {
+	text-decoration-color: aliceblue;
+	display: inline-block;
+	text-align: center;
+	vertical-align:middle;
+	align-items: center;
+	
+}
+
+
 	
